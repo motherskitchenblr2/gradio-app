@@ -36,7 +36,7 @@
 		"@gradio/tabitem": "workspace:^",
 		"@gradio/tabs": "workspace:^",
 		"@sindresorhus/slugify": "^3.0.0",
-		"@sveltejs/adapter-vercel": "^6.3.4",
+		"@sveltejs/adapter-vercel": "^6.3.5",
 		"hast-util-to-string": "^3.0.1",
 		"mdsvex": "^0.12.8",
 		"postcss": "^8.5.26",
